@@ -1,0 +1,17 @@
+{
+  "name": "aws-demo",
+  "version": "1.0.0",
+  "description": "AWS-Node-JS starter codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay Bhargava",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-scheduler": "^3.267.0",
+    "aws-sdk": "^2.1324.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
